@@ -15,3 +15,6 @@ Contains the commands to setup the IoT Edge runtime on a Raspberry Pi
 
 ## ubuntu-edge-setup.txt
 Contains the command to setup the IoT Edge runtime on Ubuntu
+
+## AIW07 The Edge of Tomorrow.pptx
+Presentation deck
